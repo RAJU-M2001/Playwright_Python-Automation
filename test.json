@@ -1,0 +1,13 @@
+{
+"origins": [
+        {
+            "origin": "https://talent.woyage.ai",
+            "localStorage": [
+                   {
+                      "name": "woyage_user_session",
+                      "value": "226262622626323232"
+                   }
+                            ]
+        }
+    ]
+}
