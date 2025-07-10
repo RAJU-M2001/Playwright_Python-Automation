@@ -1,7 +1,7 @@
 import json
 
 # Load the JSON data from the file
-with open('auth.json', 'r') as file:
+with open('woyage_session.json', 'r') as file:
     data = json.load(file)
 
 # Navigate through the JSON structure to find the value
