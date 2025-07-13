@@ -1,0 +1,449 @@
+{
+  "introduction": {
+    "first_name": "Raju",
+    "last_name": "fsdgsdfgsdfgsgfdsgsd",
+    "title": "QA Engineers",
+    "tagline": "Visionary Technology Leader Driving Innovation, Scalability, and Operational Excellence Across Enterprises.",
+    "custom_field": ["fdsfsdf"]
+  },
+  "contact": {
+    "email": "offshoreqa@woyage.ai",
+    "phone": "1234567890",
+    "address_line": "5678 Innovation Blvd",
+    "address_city": "Seattle",
+    "address_state": "WA",
+    "address_zipcode": "98101",
+    "address_country": "United States",
+    "website": "visionarytech.ai",
+    "linkedin": "linkedin.com/in/janedoe-visionary",
+    "picture": "",
+    "pronouns": "Her",
+    "work_authorization": "US Citizen",
+    "custom_field": []
+  },
+  "summary": {
+    "section_title": "<b>SUMMARY</b>",
+    "description": "Dynamic and results-oriented leader with over 15 years of experience in technology strategy, software engineering, and cloud solutions. Proven expertise in scaling global teams, driving innovation, and delivering enterprise-grade solutions with measurable impact.",
+    "custom_field": [],
+    "suggestions": [
+      {
+        "687208b5ecd93e1134fc420c": "Experienced and forward-thinking professional with a track record of success in technology strategy, software engineering, and cloud solutions. Skilled in leading global teams, fostering innovation, and delivering impactful enterprise solutions."
+      }
+    ]
+  },
+  "skills": {
+    "section_title": "<b>SKILLS</b>",
+    "items": [
+      {
+        "name": "Python",
+        "type": "Technical Skill",
+        "level": "Expert",
+        "sub_category": "Programming Language"
+      },
+      {
+        "name": "AWS",
+        "type": "Technical Skill",
+        "level": "Expert",
+        "sub_category": "Cloud Platform"
+      },
+      {
+        "name": "ADOBE",
+        "type": "",
+        "level": "",
+        "sub_category": ""
+      },
+      {
+        "name": "REACT",
+        "type": "",
+        "level": "",
+        "sub_category": ""
+      },
+      {
+        "name": "JAVA",
+        "type": "",
+        "level": "",
+        "sub_category": ""
+      }
+    ]
+  },
+  "experience": {
+    "section_title": "<b>EXPERIENCE</b>",
+    "items": [
+      {
+        "title": "CHIEF TECHNOLOGY OFFICER",
+        "company_name": "Innovate Global",
+        "start_month": "Jan",
+        "start_year": "2021",
+        "end_month": "Dec",
+        "end_year": "2023",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "United States",
+        "description": "Developed and maintained scalable software solutions for Google flagship products including Gmail and Google Docs. Collaborated with product managers and cross-functional teams to define project goals requirements and timelines. Led code reviews provided constructive feedback and mentored junior engineers to foster a culture of continuous learning and improvement. Participated in design discussions contributed innovative ideas and proactively identified opportunities for product enhancements.",
+        "currently_work_here": false,
+        "type": "Full Time",
+        "location_type": "Remote",
+        "industry": "Technology",
+        "industry_sub_category": "Enterprise Software",
+        "skills": "Leadership Cloud Solutions AI DevOps",
+        "links": "innovateglobal.com"
+      }
+    ]
+  },
+  "education": {
+    "section_title": "<b>EDUCATION</b>",
+    "items": [
+      {
+        "school": "Stanford University",
+        "degree": "MASTER OF ENGINEERING",
+        "field_of_study": "Computer Science",
+        "specialization": "",
+        "start_month": "Sep",
+        "start_year": "2014",
+        "end_month": "Jun",
+        "end_year": "2016",
+        "city": "Palo Alto",
+        "state": "CA",
+        "country": "United States",
+        "description": "Two-year program focused on advanced AI and machine learning techniques with industry applications.",
+        "grade": "4.0",
+        "links": "https://www.google.com/"
+      }
+    ]
+  },
+  "certifications": {
+    "section_title": "<b>CERTIFICATIONS</b>",
+    "items": [
+      {
+        "name": "AWS Certified Solutions Architect - Professional",
+        "issuing_organization": "Amazon Web Services",
+        "issue_month": "Mar",
+        "issue_year": "2018",
+        "links": "https://aws.amazon.com/",
+        "id": "AWS-123456",
+        "description": "Advanced certification demonstrating expertise in architecting distributed systems on AWS."
+      }
+    ]
+  },
+  "projects": {
+    "section_title": "<b>Projects</b>",
+    "items": [
+      {
+        "title": "AI-Powered Retail Analytics Platform",
+        "organization": "RetailTech Inc.",
+        "description": "Led the development of an AI-driven analytics platform processing 10TB of data daily, enabling predictive insights for 500+ retail chains globally.",
+        "start_month": "May",
+        "start_year": "2019",
+        "end_month": "Aug",
+        "end_year": "2020",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "United States",
+        "links": "https://retailtech.com"
+      }
+    ]
+  },
+  "languages": {
+    "section_title": "<b>Languages</b>",
+    "items": [
+      {
+        "name": "English",
+        "proficiency": "Native"
+      },
+      {
+        "name": "Spanish",
+        "proficiency": "Professional Working Proficiency"
+      }
+    ]
+  },
+  "courses": {
+    "section_title": "<b>Courses</b>",
+    "items": [
+      {
+        "title": "Machine Learning",
+        "institution": "Stanford University",
+        "description": "Supervised and unsupervised learning, deep learning, and model evaluation.",
+        "id": "CS230",
+        "start_month": "Sep",
+        "start_year": "2017",
+        "end_month": "Dec",
+        "end_year": "2017",
+        "city": "Palo Alto",
+        "state": "CA",
+        "country": "United States",
+        "links": "https://stanford.edu/"
+      }
+    ]
+  },
+  "achievements": {
+    "section_title": "<b>Achievements</b>",
+    "items": [
+      {
+        "name": "Technology Innovator of the Year",
+        "issuing_organization": "Tech Leaders Association",
+        "description": "Awarded for exceptional contributions to advancing AI and cloud technologies.",
+        "issue_month": "Nov",
+        "issue_year": "2022",
+        "city": "Seattle",
+        "country": "United States",
+        "links": "https://www.techleaders.com/"
+      }
+    ]
+  },
+  "internship": {
+    "section_title": "<b>Internship</b>",
+    "items": [
+      {
+        "title": "Software Engineer Intern",
+        "company_name": "TechPioneers Inc.",
+        "start_month": "May",
+        "start_year": "2013",
+        "end_month": "Aug",
+        "end_year": "2013",
+        "city": "New York",
+        "country": "United States",
+        "description": "Developed and tested features for a SaaS platform.",
+        "location_type": "Onsite",
+        "industry": "Software",
+        "industry_sub_category": "Consumer Goods",
+        "skills": "JavaScript, Testing",
+        "links": "https://techpioneers.com/"
+      }
+    ]
+  },
+  "hobbies": {
+    "section_title": "<b>Hobbies</b>",
+    "items": [
+      {
+        "title": "Marathon Running",
+        "description": "Completed over 15 marathons globally, including Boston and Berlin marathons.",
+        "links": "https://marathonworld.com/"
+      }
+    ]
+  },
+  "interests": {
+    "section_title": "<b>Interests</b>",
+    "items": [
+      {
+        "title": "Artificial Intelligence",
+        "description": "Exploring cutting-edge advancements in AI technology.",
+        "links": "https://openai.com/"
+      }
+    ]
+  },
+  "references": {
+    "section_title": "<b>References</b>",
+    "items": [
+      {
+        "full_name": "John Smith",
+        "email": "john.smith@techleaders.com",
+        "phone": "9876543210",
+        "title": "CEO",
+        "company_name": "TechLeaders Inc.",
+        "links": "https://techleaders.com/"
+      }
+    ]
+  },
+  "links": {
+    "section_title": "<b>Links</b>",
+    "items": [
+      {
+        "name": "Portfolio",
+        "description": "Comprehensive portfolio showcasing projects and achievements.",
+        "links": "https://portfolio.janedoe.com/"
+      },
+      {
+        "name": "GitHub",
+        "description": "Source code for various open-source projects.",
+        "links": "https://github.com/janedoe"
+      }
+    ]
+  },
+  "strengths": {
+    "section_title": "<b>Strengths</b>",
+    "items": [
+      {
+        "name": "Emotional Intelligence",
+        "description": "Ability to connect with and inspire teams."
+      },
+      {
+        "name": "Critical Thinking",
+        "description": "Making informed decisions in high-stakes scenarios."
+      }
+    ]
+  },
+  "competencies": {
+    "section_title": "<b>Competencies</b>",
+    "items": [
+      {
+        "name": "Leadership",
+        "type": "Soft Skill",
+        "level": "Expert",
+        "sub_category": ""
+      },
+      {
+        "name": "AI Strategy",
+        "type": "Technical Skill",
+        "level": "Expert",
+        "sub_category": ""
+      }
+    ]
+  },
+  "volunteering": {
+    "section_title": "<b>Volunteering</b>",
+    "items": [
+      {
+        "title": "Mentor",
+        "organization_name": "Code for Kids",
+        "cause": "Education and Technology",
+        "start_month": "Jun",
+        "start_year": "2017",
+        "end_month": "Dec",
+        "end_year": "2023",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "United States",
+        "description": "Mentored over 100 students in programming and software development, fostering the next generation of tech leaders.",
+        "links": "https://www.codeforkids.org/"
+      }
+    ]
+  },
+  "publications": {
+    "section_title": "<b>Publications</b>",
+    "items": [
+      {
+        "title": "Advancements in AI-Driven Data Analytics",
+        "publisher": "Journal of Artificial Intelligence",
+        "publication_date": "",
+        "publication_month": "Aug",
+        "publication_year": "2021",
+        "description": "Research paper on leveraging AI for predictive analytics in enterprise systems.",
+        "authors": "John Doe",
+        "links": "https://www.ai-journal.com/"
+      }
+    ]
+  },
+  "patents": {
+    "section_title": "<b>Patents</b>",
+    "items": [
+      {
+        "title": "Method for Real-Time Data Processing in Cloud Environments",
+        "number": "US987654321",
+        "status": "Granted",
+        "issue_date": "",
+        "issue_month": "Oct",
+        "issue_year": "2020",
+        "description": "Patent for a novel approach to real-time data analytics using cloud infrastructure.",
+        "inventors": "Jane Doe",
+        "links": "https://www.uspto.gov/"
+      }
+    ]
+  },
+  "causes": {
+    "section_title": "<b>Causes</b>",
+    "items": [
+      {
+        "name": "Global Education",
+        "links": "https://educationforall.org/"
+      },
+      {
+        "name": "Environmental Sustainability",
+        "links": "https://sustainability.org/"
+      }
+    ]
+  },
+  "objective": {
+    "section_title": "<b>Objectives</b>",
+    "items": [
+      {
+        "name": "Stay Hungry. Stay Foolish.",
+        "links": "https://apple.com"
+      },
+      {
+        "name": "Be Patient",
+        "links": "https://microsoft.com"
+      }
+    ]
+  },
+  "scores": {
+    "section_title": "<b>Scores</b>",
+    "items": [
+      {
+        "title": "GRE",
+        "score": "750",
+        "issuing_organization": "ETS",
+        "issue_month": "Dec",
+        "issue_year": "2021",
+        "links": "https://www.ets.org/"
+      }
+    ]
+  },
+  "affiliations": {
+    "section_title": "<b>Affiliations</b>",
+    "items": [
+      {
+        "name": "IEEE",
+        "description": "Member of IEEE focusing on advancements in AI and machine learning.",
+        "links": "https://ieee.org/"
+      }
+    ]
+  },
+  "reads": {
+    "section_title": "<b>Reads</b>",
+    "items": [
+      {
+        "name": "The Innovator's Dilemma",
+        "description": "Exploring how disruptive innovation shapes industries.",
+        "links": "https://amazon.com/"
+      }
+    ]
+  },
+  "activities": {
+    "section_title": "<b>Activities</b>",
+    "items": [
+      {
+        "title": "Sustainability Advocate",
+        "program": "Green Initiatives",
+        "organization_name": "Global Green",
+        "start_month": "Jan",
+        "start_year": "2020",
+        "end_month": "Dec",
+        "end_year": "2023",
+        "city": "Remote",
+        "country": "USA",
+        "description": "Promoted global sustainability through technology and innovation.",
+        "links": "https://globalgreen.org/"
+      }
+    ]
+  },
+  "training": {
+    "section_title": "<b>Training</b>",
+    "items": [
+      {
+        "title": "Advanced AI Training",
+        "institution": "Stanford University",
+        "description": "Deep learning, reinforcement learning, and natural language processing.",
+        "id": "AI2023",
+        "start_month": "Mar",
+        "start_year": "2022",
+        "end_month": "Jun",
+        "end_year": "2022",
+        "city": "Palo Alto",
+        "state": "CA",
+        "country": "United States",
+        "links": "https://stanford.edu/"
+      }
+    ]
+  },
+  "custom": {
+    "section_title": "<b>Custom Section</b>",
+    "items": [
+      {
+        "name": "Custom Section",
+        "description": "Custom Section to add to Resume",
+        "custom_field": []
+      }
+    ]
+  },
+  "additional": {}
+}

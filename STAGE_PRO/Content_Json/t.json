@@ -1,0 +1,27 @@
+{
+  "introduction": {
+    "first_name": "Raju",
+    "last_name": "fsdgsdfgsdfgsgfdsgsd",
+    "title": "QA Engineers",
+    "tagline": "Visionary Technology Leader Driving Innovation, Scalability, and Operational Excellence Across Enterprises.",
+    "custom_field": ["fdsgdgsdfgsdgsdg"]
+  },
+   "projects": {
+    "section_title": "<b>Projects</b>",
+    "items": [
+      {
+        "title": "AI-Powered Retail Analytics Platform",
+        "organization": "RetailTech Inc.",
+        "description": "Led the development of an AI-driven analytics platform processing 10TB of data daily, enabling predictive insights for 500+ retail chains globally.",
+        "start_month": "May",
+        "start_year": "2019",
+        "end_month": "Aug",
+        "end_year": "2020",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "United States",
+        "links": "https://retailtech.com"
+      }
+    ]
+  }
+}
